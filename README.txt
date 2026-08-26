@@ -29,3 +29,10 @@ CONTACT FORM
 ------------
 The form uses a mailto link to open the visitor's email application. For a production website,
 replace this with a real form backend or service if you want messages submitted directly online.
+
+IMPORTANT
+---------
+Verify the email address from the supplied flyer before publishing:
+prudentcontcacademy@gmail.com
+
+Replace portfolio placeholders on Our Work with your real projects and live URLs.
